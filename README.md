@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashutosh Kumar.
-- 👀 ave a strong interest in technology that can solve real-world problems, more interested in Web Development.
+- 👀 I have a strong interest in technology that can solve real-world problems, more interested in Web Development.
 - 🌱 I’m currently working in FYND as a SDE-1
 - 💞️ I love to work on JavaScript, HTML, CSS, React.js, Next.js, Vue.js, Node.js, etc.
 - 📫 How to reach me ...contact: https://www.linkedin.com/in/ashu535/
