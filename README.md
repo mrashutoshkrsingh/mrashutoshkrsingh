@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Kumar.
 - 👀 I have a strong interest in technology that can solve real-world problems, more interested in Web Development.
-- 🌱 I’m currently working in Flipkart as a UI Engineer II.
+- 🌱 I’m currently working as a UI Engineer II.
 - 💞️ I love to work on JavaScript, HTML, CSS, React.js, Next.js, Vue.js, Node.js, Typescript, etc.
 - 📫 How to reach me ...contact: https://www.linkedin.com/in/ashu535/
 
